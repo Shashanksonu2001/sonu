@@ -7,3 +7,4 @@ function myFunction() {
   x.style.color = "red";
 }
 </script>
+document.getElementById("demo").innerHTML = "Hello JavaScript";
